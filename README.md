@@ -19,6 +19,6 @@
   <br><br>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=caioeduardomouta&theme=gotham_icons=true" alt="caioeduardomouta" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=caioeduardomouta&theme=dark&show_icons=true?theme=chartreuse-dark" alt="caioeduardomouta" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=caioeduardomouta&theme=dark&show_icons=true" alt="caiomouta" /></p>
