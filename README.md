@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caioeduardomouta&label=Profile%20views&color=0e75b6&style=flat" alt="caioeduardomouta" /> </p>
 
 
-- 🔭 Conhecimento **Java, Sprig Boot, JPA, JSF, Hibernate**
+- 🔭 Conhecimento **Java, Spring Boot, JPA, JSF, Hibernate**
 
 - 🌱 Estou Aprendendo **React Native, React, Flutter e Elixir**
 
