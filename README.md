@@ -3,7 +3,7 @@
 
 - 🔭 Conhecimento **Java, Spring Boot, JPA, JSF, Hibernate**
 
-- 🌱 Estou Aprendendo **React Native, React, Flutter e Elixir**
+- 🌱 Estou Aprendendo **React Native, React, Node.js e Flutter **
 
 <h3 align="left">Connecte Comigo:</h3>
 <p align="left">
